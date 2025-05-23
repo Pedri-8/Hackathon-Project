@@ -9,7 +9,7 @@ st.set_page_config(page_title="Reverse Job Interview AI", page_icon="💼", layo
 # Google Gemini API Setup
 GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-2.5-pro-exp-03-25")
+model = genai.GenerativeModel("gemini-2.0-pro-exp-03-25")
 
 # Function to extract text from PDF
 def extract_text_from_pdf(uploaded_pdf):
