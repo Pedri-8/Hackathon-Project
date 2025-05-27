@@ -73,8 +73,3 @@ Made with ❤️ by [Pedri-8](https://github.com/Pedri-8)
 Feel free to fork the repo or contribute!
 
 ```
-
----
-
-Let me know if you want to add badges (build status, license, etc.), contribution guidelines, or a feature roadmap!
-```
